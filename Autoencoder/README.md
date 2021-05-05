@@ -1,1 +1,1 @@
-Esta es la carpeta del Tallere de Autoencoders
+Esta es la carpeta del Taller de Autoencoders
